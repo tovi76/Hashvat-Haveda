@@ -1,0 +1,6 @@
+@Hashavt_aveda_HostAddress = http://localhost:5012
+
+GET {{Hashavt_aveda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
